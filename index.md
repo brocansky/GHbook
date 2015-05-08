@@ -10,25 +10,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 #Table of Contents#
 
+[Introduction.] [intro]
 [Chapter 1.][art1]  
-[Article two.][art2]  
-[Article three.][art3]  
-[Article four.][art4]  
-[Article five.][art5]  
-[Article six.][art6]  
-[Article seven.][art7]  
-[Article eight.][art8]  
-[Article nine.][art9]  
-[Article ten.][art10]  
+[Chapter 2.][art2]  
+[Chapter 3.][art3]  
+[Chapter 4.][art4]  
+[Chapter 5.][art5]  
+[Continue Learning!.][art6]  
+
 
 [AboutTheAuthor]: AboutTheAuthor.html
+[intro]: intro.html
 [art1]: article1.html
 [art2]: article2.html
 [art3]: article3.html
 [art4]: article4.html
 [art5]: article5.html
 [art6]: article6.html
-[art7]: article7.html
-[art8]: article8.html
-[art9]: article9.html
-[art10]: article10.html
+
