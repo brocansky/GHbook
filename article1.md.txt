@@ -1,0 +1,60 @@
+---
+layout: post
+title: Introduction
+
+{{ page.title }}
+================
+
+
+If I were the gambling type, I would bet the interactions you have experienced in online classes have been largely or entirely comprised of text-based communications -- probably discussion forums and text-based announcements. Am I close? Why does this matter so much?
+
+In an online class, the interactions are the gutts of the learning. The interactions that occur between an instructor-and-student and student-to-student are the catalysts that enable students to get to know one another as individuals, they are the fuel that weaves the fabric of community, and they hold the power to turn course content into transformative, relevant learning experiences. And all too often online interactions are comprised solely of textual communications, which limit the degree to which students may relate to one another as humans in an online classroom
+
+For years, online course designers and instructors did not have feasible alternatives to text-based discussion boards and announcements. These were the tools most commonly included in the learning management toolkit and over the years, they became adopted effectively into mainstream online instruction. Audio and video were too problematic because they introduced obstacles for both the instructors and the students. These obstacles included internet bandwidth, accessibility issues for students with disabilities, and, of course, the most obvious challenge was the expense and learning curve of the software needed to record the comments. Those obstacles made video and audio interactions a luxury.
+
+Moreover, many audio/visual tools are synchronous, eliminating the critical asynchronous communication experience, which is essential to engage and support a diverse student population with complex work and personal schedules. In short, identifying a tool that allows for asynchronous, voice or video-based conversations that are easy-to-view from multiple devices and supports accessibility accommodations is a tough order to fill. VoiceThread shifts this playing field.
+
+The social interactions in an online class and personalized feedback shared between an instructor and his or her students are the elements that serve to replace the socialization that occurs in a face-to-face class. And, all too frequently the lack of the human element in online classes is cited as an inherent weakness of online classes. I often shake my head at this argument, as I could easily argue that many or most of my own college (face-to-face) undergraduate classes were not exactly socially stimulating. Yes, I saw and heard my professors regularly but even my most dynamic professors were successful at regularly engaging just a handful of students in a class discussion. And, usually, it was the same small group of students that participated week after week -- and I can assure you I was not one of them. I was timid and self-conscious about speaking up. I felt easily judged by my peers and rarely felt supported and encouraged to speak openly in my classroom settings. I think I was a pretty typical college student.
+What you will and won't find in this book
+
+This eBook is concise and will take you through four chapters that are enhanced with brief video excerpts from my online classes (shared with permission from my students). Also sprinkled throughout the book are links to VoiceThread's "Support" pages to assist you with getting more granular, practical help with using the tool. Remember to always consult VoiceThread's Support pages for the most recent updates related to their product.
+
+However, it is important to be clear that this is not a book about how to use VoiceThread. If you want to learn how to create a VoiceThread account, upload files into VoiceThread, leave comments, etc., you will not find your objectives met here. Those answers are located on the VoiceThread Support pages and in the handy VoiceThreads Guides.
+
+So, then, what is this book? Well, if teaching were an art form and if VoiceThread were a medium then you'd be stepping inside my studio to explore how I create my art with VoiceThread. Like all art, there is no singular or best way to complete the process and, of course, judgment is always subjective. But, of course, artists learn from one another by visiting each other’s studios and understanding how they are applying materials in new, experimental ways. This is something I believe we need more of at this moment in education more than anything. Educators need to share and we need to be incentivized, motivated, and inspired to do so.
+Icons
+
+ 
+
+tmp_b881a3b867d497a81664723bd1961307_K16W87_html_5bf6220e.png This icon is used throughout the eBook to draw attention to opportunities for you to "dig deeper" by clicking on links to video excerpts from my own teaching activities and sample VoiceThread links. "More examples" is a common request VoiceThread gets from faculty users so I hope these links are helpful! The resources allow you the opportunity to dig deeper and view the practices discussed in the book in action. You may choose to click on the links and bookmark some of the videos in your browser for later viewing. This way, you can develop your own library of video resources as you read the eBook.
+
+tmp_b881a3b867d497a81664723bd1961307_K16W87_html_m172ee6e0.pngThis icon represents a strategy I have developed that has saved me time or has helped me use VoiceThread more effectively. Some of the tips may save you some frustration.
+Overview of chapters
+
+Chapter 1 digs into the topic of human presence and unveils some important research about how and why video and voice are more effective for creating connected, relevant online learning experiences. The opening chapter also explores the ways that VoiceThread aligns with brain-based learning, supports principles of Universal Design for Learning (UDL), and discusses how to ensure the content you create in VoiceThread is 508 compliant.
+
+    Finally, I will share a simple strategy I implemented in my online class that resulted in an increase from 25% to 75% of my online community college students willing to voluntarily participate in voice or video.
+
+Chapter 2 goes deeper into the cultivation of a learning environment with VoiceThread and focuses on recontextualizing the concept of "learning" outside the walls of our formalized institutions of education. We will examine the importance of scaffolding and flow to consider how learning occurs in everyday life.
+
+    I will share a case study from 2009 in which I used VoiceThread to flip my community college art history. In this flipped class example, I used VoiceThread to build in formative assessments into my students' learning and I removed my lectures from the time I spent with my students in the classroom and had the lectures completed online, in the form of enhanced podcasts. The case study investigates how the integration of VoiceThread as a form of formative assessment (and using class time as a further scaffolding of learning), improved the students' ability to perform at higher order thinking levels and fostered more deep learning.
+
+Secondly, Chapter 2 takes an alternative look at scaffolding and argues that teachers must also scaffold "technology skills" as well as "cognitive skills." In other words, if you teach with VoiceThread, know the tool and blend it in with care so that you do not overwhelm your students and, instead, mindfully shepherd them into becoming content creators. Chapter 2 provides detailed discussion and video excerpts of two activities.
+
+    The first is an editing activity my students complete in my online class.
+
+    The second is a summative project my students create which requires each of them to locate, research, and interview a practicing photographer (anywhere in the world) and then create a VoiceThread that analyzes and showcases his/her work.
+
+Chapter 3 is a practical look at how to put together clear, effectively designed VoiceThread activities.
+
+    This chapter outlines 8 Elements of an Effectively Designed VoiceThread with a link to a complete VoiceThread to illustrate the concept. These elements help to ensure students understand what they are accountable for, ensure the instructor is clear about what her/his expectations are of the students, create a workflow that allows slides to be copied for future VoiceThreads, and foster group norms that will grow throughout a class.
+
+Chapter 4, the final chapter, is really when the teaching and learning begins! I share how I use the video and voice commenting feature in VoiceThread to deliver feedback to my students during a VoiceThread learning activity (which would have a start and end date). Leaving feedback will transform your preconceived notions of what online teaching and learning is and it will blow the doors off your students' as well.
+
+    This chapter includes links to videos that demonstrate strategies for using your feedback comments to deliver personalized learning growth roadmaps to individual students, summative messages to groups of students, and share micro-lectures that augment material covered in the learning unit that may include links to websites in follow-up text comments or a simple demonstration in a webcam comment.
+
+As an online instructor myself, I understand how challenging it can be to teach with technology. I believe fostering a culture of sharing within higher education is central to improving the challenges that faculty face in today's rapidly accelerating technological instructional landscape. The more faculty can see what other faculty are doing and learn from their ideas, the more faculty become connected as a community of lifelong learners dedicated to the scholarship of teaching and learning and the more quickly pedagogical changes will be adopted. As institutions struggle to support the rapid speed of technological change in the face of dwindling budgets, I hope what I share in this book will fill a much needed void, ultimately inspiring you to try something new and share your own practices back with the community.
+
+At the end of each chapter, you will find a brief list of key takeaways summarizing major points to help you review and reflect on the material.
+
+Michelle Pacansky-Brock
