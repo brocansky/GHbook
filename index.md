@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Chapter 3.][art3]  
 [Chapter 4.][art4]  
 [Chapter 5.][art5]  
-[Continue Learning!.][art6]  
+[Continue Learning.][art6]  
 
 
 [AboutTheAuthor]: AboutTheAuthor.html
