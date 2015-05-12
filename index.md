@@ -4,7 +4,9 @@ title: Sample ebook
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor incidunt et labore et dolore magna aliquam. Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse molestaie cillum. Tia non ob ea soluad incom dereud facilis est er expedit distinct. Nam liber te conscient to factor tum poen legum odioque civiuda et tam. Neque pecun modut est neque nonor et imper ned libidig met, consectetur adipiscing elit, sed ut labore et dolore magna aliquam is nostrud exercitation ullam mmodo consequet. Duis aute in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+VoiceThread has become one of the most popular Web 2.0 tools used in education. Ninety percent of its 4-million users are educators and its recent LMS integration has accelerated site-wide adoption.
+
+In this eBook, Michelle Pacansky-Brock, online college instructor and long-time VoiceThreader, shares a thoughtful and detailed compilation of effective instructional design and pedagogical strategies for using VoiceThread's unique, humanized learning environment to effectively support online, student-centered learning.
 
 [About the Author.] [AboutTheAuthor]
 
