@@ -1,8 +1,8 @@
 # Makefile for generating EPubs from a Jekyll dir
 
 # Configuration: change these variables
-TITLE = your title here
-AUTHOR = your name here
+TITLE = How to Humanize Your Online Class with VoiceThread
+AUTHOR = Michelle Pacansky-Brock
 
 # change these if you like; they will default to the title you fill in above
 EPUB_FILENAME = $(TITLE).epub
@@ -17,7 +17,7 @@ MD_PATH = .
 # Paths to chapters, in order, separated by spaces. Should be all on one line;
 # if the line becomes too long, you may continue a line by putting a backslash
 # at the end of the line. Paths are relative to MD_PATH.
-MD_FILES = article1.md article2.md article3.md article4.md article5.md \
+MD_FILES = introduction.md article1.md article2.md article3.md article4.md article5.md \
 		   article6.md article7.md article8.md article9.md article10.md
 
 # paths to programs/files
