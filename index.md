@@ -18,6 +18,7 @@ In this eBook, Michelle Pacansky-Brock, online college instructor and long-time 
 [Chapter 3.][art3]  
 [Chapter 4.][art4]  
 [Chapter 5.][art5]  
+
 [Continue Learning.][art6]  
 
 
