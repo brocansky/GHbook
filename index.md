@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample ebook
+title: How to Humanize Your Online Class with VoiceThread
 ---
 
 
